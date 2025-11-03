@@ -1,1 +1,1 @@
-# easyi18n
+# EasyI18n
